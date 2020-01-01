@@ -545,21 +545,27 @@ footer {
 
 footer .footer {
   width: 100%;
+  background-color: #f5f5f5;
 }
 
 footer .footer img {
   width: 1.07812rem;
   height: 1.23438rem;
-  margin: 0 auto;
+  margin-left: 4.21875rem;
+  margin-top: 0.78125rem;
 }
 
 footer .footer span {
   float: left;
-  margin-top: 1.71875rem;
-  margin-left: 1.875rem;
+  margin-top: 0.3125rem;
+  margin-left: 2.8125rem;
 }
 
 footer .bottom {
   width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: 0.78125rem;
+  line-height: 0.46875rem;
 }
 /*# sourceMappingURL=index.css.map */
