@@ -1,0 +1,172 @@
+html,
+body {
+  background-color: #f5f5f5 !important;
+}
+
+header {
+  width: 100%;
+}
+
+header .top {
+  position: relative;
+  width: 100%;
+  height: 1.03125rem;
+  background-color: #fff;
+}
+
+header .top .iconfont {
+  float: left;
+  color: #ff3c3c;
+  font-size: 0.78125rem;
+  margin-left: 0.15625rem;
+  margin-top: 0.07812rem;
+}
+
+header .top h2 {
+  font-size: 0.46875rem;
+  text-align: center;
+  margin-right: 0.625rem;
+  line-height: 1.03125rem;
+}
+
+header .top button {
+  position: absolute;
+  right: 0.15625rem;
+  top: 0.15625rem;
+  padding: 0.04688rem 0.23438rem;
+  margin-top: 0.07812rem;
+}
+
+main {
+  background-color: #f5f5f5;
+}
+
+main .one {
+  width: 100%;
+  height: 1.03125rem;
+  background-color: #fff;
+  margin-top: 1.25rem;
+  border-bottom: 1px solid #ccc;
+}
+
+main .one .iconfont {
+  margin-left: 1.03125rem;
+  line-height: 1.03125rem;
+}
+
+main .one input {
+  border: none;
+  margin-left: 0.15625rem;
+}
+
+main .two {
+  width: 100%;
+  height: 1.03125rem;
+  background-color: #fff;
+}
+
+main .two .iconfont {
+  margin-left: 1.03125rem;
+  line-height: 1.03125rem;
+}
+
+main .two input {
+  border: none;
+  margin-left: 0.15625rem;
+}
+
+main .password {
+  width: 100%;
+}
+
+main .password input {
+  margin-left: 0.9375rem;
+  margin-top: 0.70312rem;
+}
+
+main .password span {
+  float: right;
+  color: #07a5ff;
+  margin-right: 1.03125rem;
+  margin-top: 0.625rem;
+}
+
+main .button {
+  width: 100%;
+  margin-bottom: 0.78125rem;
+}
+
+main .button button {
+  width: 7.8125rem;
+  height: 1.25rem;
+  background-color: #ff3c3c;
+  border: none;
+  border-radius: 0.15625rem;
+  color: #fff;
+  margin-top: 0.78125rem;
+  margin-left: 1.09375rem;
+}
+
+main .login {
+  width: 100%;
+  margin-bottom: 0.78125rem;
+}
+
+main .login a {
+  width: 100%;
+}
+
+main .login a span {
+  color: #07a5ff;
+  margin-left: 3.90625rem;
+}
+
+footer {
+  width: 100%;
+}
+
+footer .footer {
+  width: 100%;
+}
+
+footer .footer span {
+  margin-left: 3.90625rem;
+}
+
+footer .footer ul {
+  margin-top: 0.3125rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+footer .footer ul li:nth-child(1) a i {
+  color: #ff3c3c;
+}
+
+footer .footer ul li:nth-child(2) a i {
+  color: #10a8ff;
+}
+
+footer .footer ul li:nth-child(3) a i {
+  color: #c81825;
+}
+
+footer .footer ul li:nth-child(4) a i {
+  color: #cccccc;
+}
+
+footer .footer ul li {
+  width: 25%;
+  float: left;
+  text-align: center;
+}
+
+footer .footer ul li a {
+  width: 100%;
+}
+
+footer .footer ul li a .iconfont {
+  width: 100%;
+  font-size: 0.9375rem;
+}
+/*# sourceMappingURL=login.css.map */
