@@ -66,7 +66,7 @@ header .search input {
 header .header-right {
   float: right;
   margin-top: 0.46875rem;
-  margin-left: 0.39062rem;
+  margin-left: 0.3125rem;
 }
 
 .iconfont {
@@ -83,7 +83,7 @@ header .header-right {
 }
 
 .list ul {
-  width: 100%;
+  width: auto;
   overflow: hidden;
 }
 

@@ -67,7 +67,7 @@ header {
     .header-right {
         float: right;
         margin-top: (30rem / 64);
-        margin-left: (25rem / 64);
+        margin-left: (20rem / 64);
     }
 }
 
@@ -84,7 +84,7 @@ header {
     background-color: #fff;
 
     ul {
-        width: 100%;
+        width: auto;
         overflow: hidden;
 
         li {
